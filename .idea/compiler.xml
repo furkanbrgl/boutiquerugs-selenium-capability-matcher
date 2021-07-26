@@ -9,5 +9,6 @@
         <module name="boutiquerugs-selenium-capability-matcher" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

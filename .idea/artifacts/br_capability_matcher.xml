@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="br-capability-matcher">
+    <output-path>$PROJECT_DIR$/out/artifacts/br_capability_matcher</output-path>
+    <root id="archive" name="br-capability-matcher.jar" />
+  </artifact>
+</component>
